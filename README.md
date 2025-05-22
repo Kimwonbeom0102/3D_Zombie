@@ -31,7 +31,6 @@
 ---
 
 ## 🎬 시연 영상
-- ![게임시작](https://imgur.com/a/WtYWRKE)
 - [YouTube 시연 영상 보기](https://youtu.be/xAHx-Yqrb4k)
 
 ---
